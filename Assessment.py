@@ -1,0 +1,5 @@
+print("1. a. conduction")
+print("2. a. metal")
+print("3. b. increase, increases")
+print("4. d. radiation")
+print("5. d. when you are making soup and the water is rising and lowering.")
