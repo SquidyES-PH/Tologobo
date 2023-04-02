@@ -1,0 +1,5 @@
+print("• Heat is defined as thermal energy that is transferred from one body to another due to temperature differences.")
+print("• Thermal energy can be transferred in three ways: conduction, convection and radiation.")
+print("• The transfer of energy from molecule to molecule is called conduction.")
+print("• The movement of liquids or gases from a warmer region to a colder region producing a current is called convection.")
+print("• Radiation involves the form of energy called radiant energy - energy that moves through space.")
